@@ -1,2 +1,0 @@
-# htmlColors
-Visual color chart
